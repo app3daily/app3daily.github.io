@@ -1,3 +1,4 @@
+facebook.com, 358149517925978, DIRECT, c3e20eee3f780d68
 ironsrc.com, 245709, DIRECT, 79929e88b2ba73bc
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 2464975885, RESELLER
