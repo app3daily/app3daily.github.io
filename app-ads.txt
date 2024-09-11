@@ -808,6 +808,23 @@ mobupps.com, c74d97b01eae257e44aa9d5bade97baf32954, RESELLER
 rubiconproject.com, 26292, RESELLER, 0bfd66d529a55807
 pubmatic.com, 164532, RESELLER, 5d62403b186f2ace
 media.net, 8CU12AQ1Y, RESELLER
+smartadserver.com, 4190, RESELLER
+inmobi.com, 79b5caeef5114b618a16266b6c552933, RESELLER, 83e75a7ae333ca9d0
+rubiconproject.com, 25064, RESELLER, 0bfd66d529a55807
+xapads.com, 207899, RESELLER
+pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
+google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
+admixer.net, e58950b9-933f-4f5b-b49c-7ca927540db1, RESELLER
+inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
+loopme.com, 11488, RESELLER, 6c8d5f95897a5a3b
+vidoomy.com, 4433873, RESELLER
+video.unrulymedia.com, 827123801, RESELLER
+e-planning.net, ec771b05828a67fa, RESELLER, c1ba615865ed87b2
+onetag.com, 8305cc299686700, RESELLER
+rubiconproject.com, 17608, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 123476257, RESELLER
+pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
+onetag.com, 82e44d118b79600, RESELLER
 smaato.com, 1100057673, DIRECT, 07bcf65f187117b4
 smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
 rubiconproject.com, 24600, RESELLER, 0bfd66d529a55807
